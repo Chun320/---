@@ -1,0 +1,9 @@
+..\obj\textdisplay.o: ..\EWMIN\Demo\textdisplay.c
+..\obj\textdisplay.o: ..\EWMIN\STemWin\inc\GUI.h
+..\obj\textdisplay.o: ..\EWMIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\textdisplay.o: ..\EWMIN\STemWin\Config\GUIConf.h
+..\obj\textdisplay.o: ..\EWMIN\STemWin\inc\GUI_Type.h
+..\obj\textdisplay.o: ..\EWMIN\STemWin\inc\LCD.h
+..\obj\textdisplay.o: ..\EWMIN\STemWin\inc\Global.h
+..\obj\textdisplay.o: ..\EWMIN\STemWin\inc\GUI_Version.h
+..\obj\textdisplay.o: ..\EWMIN\Demo\textdisplay.h
